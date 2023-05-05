@@ -1,2 +1,3 @@
-# Crypto-Chart-In-JAVA-With-Source-Code
-Crypto Chart In JAVA With Source Code
+Crypto Chart is a very basic application using graphical components in the Swing toolkit in Java. The feature of this simple application includes data about Cryptocurrencies such as Bitcoin, IOTA, Ethereum and care vertical easily. This whole system is built using Java programming language with the help of Netbeans IDE. In order to check a data, the user just has to select the cryptocurrency. After this, the system will display all the latest cryptocurrency data.
+
+It only contains a feature that allows a user to view all up to date data of cryptocurrency in a list view. The application does not connect to any external database for holding users record permanently. This means all the records are stored temporarily. Design of this project is pretty simple so that the user won’t find any difficulties while working on it. To run this project you must have installed Netbeans IDE on your PC. Crypto Chart in Java with source code is free to download, Use for educational purposes only! For the project demo, have a look at the image below.
